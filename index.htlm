@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>Connectez-vous - SexeModel.com</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta content="Libertines annonces - Sexemodel, Etre en adultes!" name="description">
+	<meta content="Libertines annonce en France, Libertines girl, Libertines online, annonces" name="keywords">
+	<meta name="ero_verify" content="0c333d6490de32bb7d19ce3c2a0a9551" />
+	<meta name="msvalidate.01" content="F8C97B5A55D3E458AA46F9A5FAD1E072" />
+			<link rel="canonical" href="https://www.sexemodel.com/users/login/" />
+				<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.sexemodel.com/users/login/">
+				<link rel="alternate" href="https://www.sexemodel.com/en/users/login/" hreflang="en" />
+			<!--[if lt IE 9]>
+	<script src="https://st.sexemodel.com/js/lib/html5shiv.min.js"></script>
+	<![endif]-->
+			<link type="text/css" rel="stylesheet" href="https://st.sexemodel.com/css/combined.min.css?v=137">
+		<link href="https://st.sexemodel.com/favicon.ico" rel="shortcut icon">
+	<link rel="manifest" href="https://st.sexemodel.com/manifest.json" />
+	<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=dtYPc0owWGQehs5JQ91Zen_6wYh863N_OGcCV4z3Dd7mYcZ0B_m6ycA2YWYMMlze8Ko-IPwlcg8ISVMSYWpD7g" charset="UTF-8"></script><script type="text/javascript" language="javascript">
+		var lang = 'fr';
+		var STATIC = 'https://st.sexemodel.com';
+		var pts = 1670230208;
+	</script>
+</head>
+
+<body>
+	<div id="page_container">
+	
+		<script type="text/javascript">
+			var _paq = window._paq = window._paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//stats.sexemodel.com/t/";
+				_paq.push(['setTrackerUrl', u+'matomo.php']);
+				_paq.push(['setSiteId', '1']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+	
+
+	<div id="header">
+		<div id="logo">
+			<h1><a href="/">sexemodel.com</a></h1>
+			<h2>Connectez-vous - SexeModel.com</h2>
+		</div>
+		<div id="pic_logo_up">
+			<a href="/"><img src="https://st.sexemodel.com/img/sexemodel.com_468_60.png" border="0" alt="sexemodel en france" width="468" height="60"></a>
+		</div>
+		<div id="advert_up">
+        	<a href="/escorts/paris/">Sexe Model</a>
+			<a href="/escort/annonce/">Libertines annonces</a>
+			<a href="/escorts/online/">Sexe en direct</a>
+			<div class="header__timeout hidden">Timeout dans: <span class="header__timeout__time-left"></span>
+				<a href="#" class="orange-button header__timeout__reset">Reset</a>
+			</div>
+		</div>
+
+		<div class="clearboth"></div>
+	</div>
+
+	<div id="cmiddle">
+		<div id="ccenter">
+		<div id="list_site">
+			<form method="post" action="/users/login/" class="genform" id="login_form">
+				<fieldset>
+					<legend>Connectez-vous</legend>
+		
+					<div class="err"></div>
+					<div class="msg"></div>
+		
+					<label for="user">Nom d'utilisateur:</label>
+					<input type="text" name="data[user]" id="user" value=""/>
+								<br/>
+		
+					<label for="passwd">Mot de passe:</label>
+					<input type="password" name="data[passwd]" id="passwd" value=""/>
+								<br/>
+					
+					<label style="margin-left: 215px;margin-top: 0;text-align: left;">
+						<input type="checkbox" checked="checked" name="data[autologin]" id="autologin">
+						Rester connecté
+					</label>
+					<br/>
+					<input type="submit" value="Connectez-vous" class="sbmt" id="login_submit"/>
+		
+					<div class="checkboxes">
+						<a href="/users/signup/" rel="nofollow">S'inscrire!</a>&nbsp;·&nbsp;
+						<a href="/users/passwd_lost/" rel="nofollow">Mot de Passe oublié?</a>
+					</div>
